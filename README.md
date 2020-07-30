@@ -2,7 +2,7 @@
 
 
 ## I code things  🤣!
-- 🔭 I’m currently working as a back-end developer![website]
+- 🔭 I’m currently working as a [back-end developer!][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: try to learn as much as possible
