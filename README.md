@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a [back-end developer!][website]
 - 🌱 I’m trying to soak as much as possible 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: try to learn as much as possible
+- 🥅 2022 Goals: try to learn as much as possible
 - ⚡ Fun fact: I love knitting and thunderstorms
 
 ### Connect with me:
