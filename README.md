@@ -28,7 +28,7 @@
 <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 [twitter]: https://twitter.com/veuenoff
 [instagram]: https://instagram.com/veuenoff
