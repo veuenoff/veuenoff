@@ -8,11 +8,13 @@
 - 🥅 2022 Goals: try to learn as much as possible
 - ⚡ Fun fact: I love knitting and thunderstorms
 
-### Connect with me:
 
-[<img align="left" alt="veuenoff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="laura-gatius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="veuenoff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veuenoff&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 <br />
 
@@ -33,3 +35,11 @@
 [twitter]: https://twitter.com/veuenoff
 [instagram]: https://instagram.com/veuenoff
 [linkedin]: https://linkedin.com/in/laura-gatius
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="veuenoff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="laura-gatius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="veuenoff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
