@@ -7,15 +7,6 @@
 - ⚡ Fun fact: I love knitting and thunderstorms
 
 
-<br />
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veuenoff&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
